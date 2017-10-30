@@ -5,7 +5,7 @@
   <artifactId>RESTfulExample</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>RESTfulExample Maven Webapp</name>
+  <name>RESTfulExample</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <!-- https://mvnrepository.com/artifact/junit/junit -->
